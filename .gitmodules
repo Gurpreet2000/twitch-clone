@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = git@github.com:Gurpreet2000/client.git
+[submodule "api"]
+	path = api
+	url = git@github.com:Gurpreet2000/streamy-backend.git
