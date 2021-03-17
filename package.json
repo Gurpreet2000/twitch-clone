@@ -1,0 +1,19 @@
+{
+  "name": "streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "killall -9 node && cd ./api; npm start & cd ../rtmpserver; npm start & cd ../client; npm start &"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gurpreet2000/twitch-clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gurpreet2000/twitch-clone/issues"
+  },
+  "homepage": "https://github.com/Gurpreet2000/twitch-clone#readme"
+}
